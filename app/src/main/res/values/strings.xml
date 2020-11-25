@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVI Test App</string>
+    <string name="box_checker_header_text">Box Checker</string>
+    <string name="tick_here">tick here</string>
+    <string name="box_one_title_text">Box One</string>
+    <string name="box_two_title_text">Box Two</string>
+    <string name="unchecked_text">Unchecked</string>
+    <string name="box_one_unchecked_text">Box One is Unchecked</string>
+    <string name="box_one_checked_text">Box One is Checked</string>
+    <string name="box_two_unchecked_text">Box Two is Unchecked</string>
+    <string name="box_two_checked_text">Box Two is Checked</string>
+</resources>
